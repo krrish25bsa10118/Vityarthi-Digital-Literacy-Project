@@ -1,7 +1,3 @@
-# Task 4 – Professional Email Drafts
-
----
-
 ## Email 1 — Requesting a Deadline Extension from a Professor
 
 **Subject:** Request for Submission Deadline Extension – Data Structures Assignment (CSE2001)
@@ -20,11 +16,16 @@ Thank you for your time and consideration.
 
 Yours sincerely,
 
-Krrish Halder 
-25BSA10118 
-B.Tech CSE, First Year 
-VIT Bhopal University 
-Email: krrish.25bsa10118@vitbhopal.ac.in 
+Krrish Halder
+
+25BSA10118
+
+B.Tech CSE, First Year
+
+VIT Bhopal University
+
+Email: krrish.25bsa10118@vitbhopal.ac.in
+
 GitHub: github.com/krrish25bsa10118 
 
 

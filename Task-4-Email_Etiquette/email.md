@@ -19,12 +19,13 @@ I sincerely apologise for any inconvenience caused, and I assure you that this w
 Thank you for your time and consideration.
 
 Yours sincerely,
-Krrish Halder
-25BSA10118
-B.Tech CSE, First Year
-VIT Bhopal University
-Email: krrish.25bsa10118@vitbhopal.ac.in
-GitHub: github.com/krrish25bsa10118
+
+Krrish Halder 
+25BSA10118 
+B.Tech CSE, First Year 
+VIT Bhopal University 
+Email: krrish.25bsa10118@vitbhopal.ac.in 
+GitHub: github.com/krrish25bsa10118 
 
 
 ---

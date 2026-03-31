@@ -58,5 +58,4 @@
 
 ---
 
-*Created as part of CSE0001 – Digital Literacy | Task 5 | VIT Bhopal University*
 *Source references: cybercrime.gov.in, I4C Annual Report 2023, RBI Digital Payments Guidelines*

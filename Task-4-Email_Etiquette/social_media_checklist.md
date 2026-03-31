@@ -32,4 +32,3 @@
 
 ---
 
-*Created as part of CSE0001 – Digital Literacy | Task 4 | VIT Bhopal University*

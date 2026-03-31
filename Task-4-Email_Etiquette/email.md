@@ -46,10 +46,16 @@ I have attached my resume for your review. I would be very grateful for the oppo
 Thank you for your time and consideration.
 
 Warm regards,
+
 Krrish Halder
+
 25BSA10118
+
 B.Tech CSE, First Year
+
 VIT Bhopal University
+
 Email: krrish.25bsa10118@vitbhopal.ac.in
+
 GitHub: github.com/krrish25bsa10118
 
